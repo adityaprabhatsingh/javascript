@@ -74,7 +74,7 @@ const course={
     courseInstructor:"aditya"
 
 }
-const {courseInstructor}=course
+const {courseInstructor}=course 
 console.log(courseInstructor)
 
 // learn about api and json more
