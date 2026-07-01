@@ -91,3 +91,7 @@ let var1;
 // terninary operator 
 
 //condition ? true :false 
+
+
+
+ 
